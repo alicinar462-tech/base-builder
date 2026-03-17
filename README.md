@@ -15,3 +15,5 @@ Base (Ethereum Layer 2)
 
 ## Author
 Builder experimenting on Base ecosystem# base-builder
+## Status
+Actively testing and deploying on Base network.
